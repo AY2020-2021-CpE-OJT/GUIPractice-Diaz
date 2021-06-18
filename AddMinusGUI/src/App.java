@@ -1,9 +1,9 @@
 import java.util.*;
 public class App {
     public static void main(String[] args) throws Exception {
+        Scanner sc=new Scanner(System.in); 
         int Repeat = 1;
-        while (Repeat==1){
-        Scanner sc=new Scanner(System.in);  
+        while (Repeat==1){ 
         System.out.print("First Number: ");
         int FirstNumber = Integer.parseInt(sc.nextLine());
         System.out.print("Second Number: ");
@@ -15,11 +15,11 @@ public class App {
         if(RepeatSwitch==1){
                 Repeat=1;
         }else{
-                sc.close();
                 break;
             }
         }
-    System.out.print(("Ending Program"));
+        sc.close();
+        System.out.print("Ending Program");
     }
 }
 
