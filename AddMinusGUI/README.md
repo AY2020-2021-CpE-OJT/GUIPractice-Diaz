@@ -1,6 +1,3 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
 
@@ -13,11 +10,10 @@ The workspace contains two folders by default, where:
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 
-<<<<<<< HEAD
 -INFO-
 This program is just practice when it comes to using the usual JOptionPane with Git related commands and such
 REFERENCES: 
-https://www.youtube.com/watch?v=mDxEGtMNPtA
-=======
+https://www.youtube.com/watch?v=2vASHVT0qKc&t=432s
+
+
 Hello, testing!
->>>>>>> added words "Hello, Testing!"
